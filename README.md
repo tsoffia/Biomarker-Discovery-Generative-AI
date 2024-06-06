@@ -7,4 +7,4 @@ We welcome contributions from the community! If you have relevant papers, tools,
 
 REVIEW PAPER
 
-Generative Artificial Intelligence in Drug Discovery -[PAPER]([https://www.example.com](https://www.researchgate.net/profile/Prerak-Garg-2/publication/379828997_Generative_Artificial_Intelligence_in_Drug_Discovery/links/661d3c4e39e7641c0bcabfef/Generative-Artificial-Intelligence-in-Drug-Discovery.pdf))
+**Generative Artificial Intelligence in Drug Discovery** - [PAPER](https://www.researchgate.net/publication/379828997_Generative_Artificial_Intelligence_in_Drug_Discovery)
