@@ -12,3 +12,12 @@ SURVEY PAPER
 REVIEW PAPER
 
 **Generative Artificial Intelligence in Drug Discovery** - [PAPER](https://www.researchgate.net/publication/379828997_Generative_Artificial_Intelligence_in_Drug_Discovery)
+
+
+MACHINE LEARNING 
+
+**A Novel Method for Diagnosing Alzheimer’sDisease from MRI Scans using the ResNet50Feature Extractor and the SVM Classifier** - [PAPER](https://www.researchgate.net/publication/372076775_A_Novel_Method_for_Diagnosing_Alzheimer%27s_Disease_from_MRI_Scans_using_the_ResNet50_Feature_Extractor_and_the_SVM_Classifier)
+
+**Image-Based Alzheimer's Disease Detection Using Pretrained Convolutional Neural Network Models** - [PAPER](https://thescipub.com/abstract/10.3844/jcssp.2023.877.887)
+
+**Hybridized Deep Learning Approach for Detecting Alzheimer's Disease** - [PAPER](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9855764/pdf/biomedicines-11-00149.pdf)
