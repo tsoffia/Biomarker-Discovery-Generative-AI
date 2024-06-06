@@ -5,6 +5,9 @@ Biomarker discovery is a critical area in medical research, providing valuable i
 
 We welcome contributions from the community! If you have relevant papers, tools, or resources to share, please feel free to submit a pull request or open an issue.
 
+SURVEY PAPER
+**Adversarial Network-Based Classification for Alzheimer’s Disease Using Multimodal Brain Images: A Critical Analysis** - [PAPER](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10480434)
+
 REVIEW PAPER
 
 **Generative Artificial Intelligence in Drug Discovery** - [PAPER](https://www.researchgate.net/publication/379828997_Generative_Artificial_Intelligence_in_Drug_Discovery)
